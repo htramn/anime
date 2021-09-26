@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movies>
+    <Movie>
+        <ID_Movie>PK_Movie_01</ID_Movie>
+        <Name_1>TENSEI SHITARA SLIME DATTA KEN</Name_1>
+        <Name_2>Về chuyện tôi chuyển sinh thành Slime</Name_2>
+        <Image>Slime.jpg</Image>
+        <Status>24.5/24.5</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Shounen, Fantasy</Genre>
+        <Year>2018</Year>
+        <Season>Mùa thu năm 2018</Season>
+        <Duration>23 phút/ep</Duration>
+        <Views>3787280</Views>
+        <Description>
+        "Dear diary - I got reincarnated as a slime". Even in another world, lives aren't always on the line. There's plenty of work to be done, from feeding the community and forging the items the community needs; as well as plenty of play and hijinks throughout. Join Rimuru and friends as they kick back and enjoy their daily lives.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/-nr7FrhU19Y</Trailer>
+        <Rating>7.0</Rating>
+        <Votes>2003</Votes>    
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_02</ID_Movie>
+        <Name_1>Genjitsu Shugi Yuusha no Oukoku Saikenki (2021)</Name_1>
+        <Name_2>CÔNG CUỘC TÁI THIẾT VƯƠNG QUỐC CỦA ANH HÙNG CHỦ NGHĨA HIỆN THỰC</Name_2>
+        <Image>Movie2.jpg</Image>
+        <Status>12/13</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Hành động, Romance, Fantasy</Genre>
+        <Year>2021</Year>
+        <Season>Mùa hạ năm 2021</Season>
+        <Duration>23 phút/ep</Duration>
+        <Views>595245</Views>
+        <Description>Hỡi anh hùng! Khi Kazuya Souma bất ngờ bị chuyển đến một thế giới khác, anh ấy biết mọi người mong đợi một anh hùng. Nhưng ý tưởng về chủ nghĩa anh hùng của Souma thực tế hơn hầu hết — anh ấy muốn xây dựng lại nền kinh tế đang phát triển mạnh mẽ của vùng đất mới mà anh ấy đã đặt chân đến! Được hứa hôn với công chúa và đột ngột lên ngôi, anh hùng theo chủ nghĩa hiện thực này phải tập hợp những người tài giỏi để giúp anh ta đưa đất nước trở lại bình thường — không phải thông qua chiến tranh hay phiêu lưu, mà bằng cải cách hành chính!</Description>
+        <Trailer>https://www.youtube.com/embed/-DE3U0DJPcE</Trailer>
+        <Rating>7.9</Rating>
+        <Votes>14000</Votes>    
+    </Movie>
+    <Movie>
+        <ID_Movie>PK_Movie_03</ID_Movie>
+        <Name_1>One Piece</Name_1>
+        <Name_2>Vua hải tặc</Name_2>
+        <Image>Movie3.jpg</Image>
+        <Status>992/???</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Hành động, Hài hước, Phiêu Lưu, Fantasy</Genre>
+        <Year>1999</Year>
+        <Season>Mùa đông năm 1999</Season>
+        <Duration>24 phút/ep</Duration>
+        <Views>4704146</Views>
+        <Description>
+            Gol D. Roger được mệnh danh là Vua hải tặc, kẻ mạnh nhất và khét tiếng nhất đã chèo thuyền Grand Line. Việc bắt giữ và xử tử Roger của Chính phủ Thế giới đã mang lại một sự thay đổi trên toàn thế giới. Những lời cuối cùng trước khi chết cho thấy sự tồn tại của kho báu vĩ đại nhất thế giới, One Piece. Chính sự mặc khải này đã mang đến Thời đại Cướp biển vĩ đại, những người đàn ông mơ ước tìm thấy One Piece ; hứa hẹn sẽ có vô số sự giàu có và danh tiếng ; và hoàn toàn có thể là đỉnh cao của vinh quang và danh hiệu Vua hải tặc.
+            Enter Monkey D. Luffy, một cậu bé 17 tuổi bất chấp định nghĩa tiêu chuẩn của bạn về một tên cướp biển. Thay vì tính cách phổ biến của một tên cướp biển độc ác, cứng rắn, không răng cưa để vui chơi, lý do trở thành cướp biển của Luffy là một trong những thắc mắc thuần túy: ý nghĩ về một cuộc phiêu lưu thú vị đưa anh ta đến với mọi người và cuối cùng, kho báu được hứa hẹn . Theo bước chân của người anh hùng thời thơ ấu của mình, Luffy và phi hành đoàn của mình du hành qua Grand Line, trải qua những cuộc phiêu lưu điên rồ, khám phá những bí ẩn đen tối và chiến đấu với những kẻ thù mạnh mẽ, tất cả để đạt được sự khao khát nhất trong tất cả các vận may ; One Piece.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/vUSunPAO-nw</Trailer>
+        <Rating>8.3</Rating>
+        <Votes>6729</Votes>  
+    </Movie>
+
+   <Movie>
+        <ID_Movie>PK_Movie_04</ID_Movie>
+        <Name_1>KUMO DESU GA, NANI KA?</Name_1>
+        <Name_2>Tôi là nhện đấy, có sao không? (2021)</Name_2>
+        <Image>Movie4.jpg</Image>
+        <Status>24/24</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Hành động, Hài hước, Phiêu Lưu, Fantasy</Genre>
+        <Year>2021</Year>
+        <Season>Đang cập nhật</Season>
+        <Duration>24 phút/ep</Duration>
+        <Views>1298235</Views>
+        <Description>
+            Ngày nọ, một cô nữ sinh cấp ba ngồi trong lớp học cùng những học sinh khác và giáo viên, đột ngột cả lớp bị cuộc chiến giữa Anh Hùng và Quỷ Vương ảnh hưởng khiến ai nấy đều chết. Linh hồn họ được chuyển về thế giới của Anh Hùng và Quỷ Vương, ai nấy đều sống một cuộc đời mới. Đối với cô gái, khi tỉnh dậy, cô được chuyển sinh sang thế giới khác, cô thấy mình nằm giữa một hang động rộng lớn và bản thân cô đã tái sinh thành một con nhện. Suốt hành trình ra khỏi hang ngục, băng qua đại mê cung, cô gái cố gắng sinh tồn khỏi những con quái vật và học nhiều kĩ năng để đánh bại chúng, cũng như để khám phá sự thật về thế giới này.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/L_ZBo9JbEAk</Trailer>
+        <Rating>8.6</Rating>
+        <Votes>45578</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_05</ID_Movie>
+        <Name_1>TOKYO REVENGERS</Name_1>
+        <Name_2>Tokyo Revengers (2021)</Name_2>
+        <Image>Movie5.jpg</Image>
+        <Status>24/24</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Hành động, Học đường, Drama, Shounen</Genre>
+        <Year>2021</Year>
+        <Season>Mùa xuân năm 2021</Season>
+        <Duration>24 phút/ep</Duration>
+        <Views>651780</Views>
+        <Description>
+            Mở đầu câu chuyện, Takemichi 26 tuổi, là một cậu thanh niên thất nghiệp, sống tại Tokyo nhận được tin cô bạn gái duy nhất của mình từ hồi sơ trung – Hinata qua đời trong một vụ ẩu đả giữa các băng nhóm tội phạm. Trong khoảnh khắc khi Takemichi bị đẩy xuống đường ray xe lửa, cậu đã vượt thời gian quay trở về thời còn học sơ trung. Nhận ra khả năng du hành thời gian của mình, Takemichi quyết tâm thay đổi tương lai và cứu lấy bạn gái bằng cách trở thành ông trùm băng đản khét tiếng nhất vùng Kanto.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/RnghCw_LbdA</Trailer>
+        <Rating>7.3</Rating>
+        <Votes>3478</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_06</ID_Movie>
+        <Name_1>ĐẤU LA ĐẠI LỤC</Name_1>
+        <Name_2>ĐẤU LA ĐẠI LỤC (2017)</Name_2>
+        <Image>Movie6.jpg</Image>
+        <Status>174/??</Status>
+        <Type_Anime>Cartoon</Type_Anime>
+        <Genre>Hành động, Phiêu lưu</Genre>
+        <Year>2017</Year>
+        <Season>Đang cập nhật</Season>
+        <Duration>22 phút/ep</Duration>
+        <Views>2103464</Views>
+        <Description>
+            Kiếp trước là thiên tài sau khi chế tạo ám khí cao nhất của đường môn: Phật Nộ Liên Hoa. Luân hồi ở kiếp sau mang theo võ công cùng với ám khí Đường Môn đến thế giới không có võ công cùng ám khí siêu đẳng như thế, chuyện gì sẽ xảy ra tiếp theo? Hãy cùng nhau theo dõi Đấu La Đại Lục để biết rõ bạn nhé.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/grhAvxeO9xk</Trailer>
+        <Rating>8.6</Rating>
+        <Votes>43576</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_07</ID_Movie>
+        <Name_1>Yell For The Blue Sky</Name_1>
+        <Name_2>VỌNG VANG TẬN TRỜI XANH (2001)</Name_2>
+        <Image>Movie7.jpg</Image>
+        <Status>1/1</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Hành động, Drama, Romance, Fantasy</Genre>
+        <Year>2001</Year>
+        <Season>Mùa thu năm 2001</Season>
+        <Duration>126 phút</Duration>
+        <Views>59762</Views>
+        <Description>
+            Ono Tsubasa (Tao Tsuchiya) là học sinh năm nhất của trường PTTH Shirato ở Sapporo, Nhật. Ngôi trường nổi tiếng về kèn đồng và bóng chày. Trong khi ngắm nhìn những chiếc cúp mà CLB kèn đồng đạt được, thì Ono Tsubasa gặp mặt Yamada Daisuke (Ryoma Takeuchi) người đứng kế cô và đang ngắm những chiếc cúp mà CLB bóng chày đạt được.
+
+            Tsubasa nói với Daisuke rằng cô tới PTTH Shirato sau khi thấy một nhóm kèn đồng trên khán đài cổ vũ trong giải đấu bóng chày ở Koushien. Daisuke cũng học năm nhất và là thành viên của CLB bóng chày. Cậu hứa với Tsubasa rằng CLB của mình sẽ tới được Koushien và mong rằng Tsubasa có thể cổ vũ cho CLB của cậu. Tsubasa gặp phải khó khăn khi tham gia CLB kèn đồng và học thổi Trumpet, nhưng Daisuke luôn khích lệ động viên cô. Tsubasa bắt đầu có cảm tình với Daisuke, rồi cả hai cùng tiến tới với ước mơ của mình.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/3GqnDrhVsHA</Trailer>
+        <Rating>8.1</Rating>
+        <Votes>12456</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_08</ID_Movie>
+        <Name_1>KINGDOM</Name_1>
+        <Name_2>VƯƠNG GIẢ THIÊN HẠ (2019)</Name_2>
+        <Image>Movie8.jpg</Image>
+        <Status>1/1</Status>
+        <Type_Anime>Movie</Type_Anime>
+        <Genre>Hành động</Genre>
+        <Year>2019</Year>
+        <Season>Đang cập nhật</Season>
+        <Duration>133 phút</Duration>
+        <Views>204315</Views>
+        <Description>
+            Câu chuyện xảy ra trong bối cảnh nhà Tần, khoảng hơn 245 năm trước công nguyên. Các nước chư hầu giành xé lẫn nhau dẫn đến cảnh loạn lạc cho toàn lãnh thổ Trung Hoa. Trong bối cảnh đó, ở một ngôi làng nọ, Tín và Phiêu, hai cậu bé mồ côi phải sống cảnh nô lệ luôn nuôi ước vọng trở thành “Thiên hạ đệ nhất tướng quân”. Nhưng 1 ngày, Phiêu được một viên quan đưa đến cung điện, bỏ lại Tín một mình ở lại ngôi làng nơi cả hai sinh sống. Vài tháng sau Phiêu trở lại gặp Tín khi bị thương rất nặng. Trong lúc hấp hối, Phiêu thúc giục Tín đi tới ngôi làng khác và tại đó Tín gặp một thiếu niên có dung mạo rất giống Phiêu – đó chính là Doanh Chính, vị vua trẻ của nhà Tần nuôi giấc mộng thống nhất lãnh thổ Trung Hoa. Liệu Tín và Doanh Chính có thể thực hiện ước mơ và làm vang danh sử sách hay không?
+        </Description>
+        <Trailer>https://www.youtube.com/embed/AXkwLPRQBXs</Trailer>
+        <Rating>8.4</Rating>
+        <Votes>3092</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_09</ID_Movie>
+        <Name_1>NGẠ QUỶ TOKYO: ĐÔNG KINH THỰC CHỦNG</Name_1>
+        <Name_2>Tokyo Ghoul Live Action (2012)</Name_2>
+        <Image>Movie9.jpg</Image>
+        <Status>1/1</Status>
+        <Type_Anime>Movie</Type_Anime>
+        <Genre>Hành động, Drama, Kinh dị</Genre>
+        <Year>2012</Year>
+        <Season>Đang cập nhật</Season>
+        <Duration>119 phút</Duration>
+        <Views>783941</Views>
+        <Description>
+            Truyện lấy bối cảnh thời hiện đại, một thế giới hoàn toàn khác khi mà loài người không phải loài đứng đầu chuỗi thức ăn, có một loài sinh vật khát máu, mang hình dạng giống con người nhưng phát triển hơn với những khả năng đặc biệt để trở thành kẻ đi săn, và con mồi chính là loài người, vốn tưởng mình làm chủ thế giới. Không cam chịu làm kẻ bị săn, loài người đứng lên chống lại loài sinh vật kia – Ghoul, quỷ ăn thịt. CCG (Ủy ban chống Quỷ ăn thịt) ra đời, đào tạo 1 lực lượng các thanh tra có kỹ năng chiến đấu cao nhằm chống lại sự tàn sát con người của quỷ ăn thịt. Ken Kaneki (nhân vật chính của bộ truyện) vốn là 1 sinh viên đại học bình thường, hiền lành và mê đọc sách. Vì một sự cố, Kaneki được cấy ghép nội tạng từ một quỷ ăn thịt được cho là đã chết, Rize Kamishiro – kẻ đã định giết anh trước khi cô ta bị giết bởi đống thép xà ngang xây dựng đột ngột rơi xuống. Từ đó, anh phải vật lộn để sống cuộc sống nửa người/nửa ghoul, bao gồm cả việc hòa nhập vào thế giới của quỷ ăn thịt đồng thời đối phó với kẻ thù trong khi luôn phải giữ kín thân phận bí mật của mình với những người khác.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/MqVLoui7aV0</Trailer>
+        <Rating>5.5</Rating>
+        <Votes>9002</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_10</ID_Movie>
+        <Name_1>YAMI SHIBAI 9</Name_1>
+        <Name_2>Yamishibai: Japanese Ghost Stories Ninth Season, Yamishibai: Japanese Ghost Stories 9 (2021)</Name_2>
+        <Image>Movie10.jpg</Image>
+        <Status>10/??</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Kinh dị</Genre>
+        <Year>2021</Year>
+        <Season>Đang cập nhật</Season>
+        <Duration>5 phút/ep</Duration>
+        <Views>95640</Views>
+        <Description>
+            Ám Kịch Phần 9 - Yami Shibai Season 9, là series phim kinh dị ngắn dựa trên những truyền thuyết hoặc lời đồn về ma quỷ đô thị trong xã hội hiện đại. 8 phần phim trước đó gặt hái vô số thành công, "Ám Kịch" nhanh chóng trở thành cái tên hot nhất trong làng phim kinh dị tại Nhật Bản.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/3Iv_dHjujMY</Trailer>
+        <Rating>7.8</Rating>
+        <Votes>2300</Votes>
+    </Movie>
+
+
+
+    <Movie>
+        <ID_Movie>PK_Movie_11</ID_Movie>
+        <Name_1>YAKUSOKU NO NEVERLAND 2ND SEASON</Name_1>
+        <Name_2>Miền Đất Hứa Phần 2 (2021)</Name_2>
+        <Image>Movie11.jpg</Image>
+        <Status>11/11</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Kinh dị, Shounen</Genre>
+        <Year>2021</Year>
+        <Season>Mùa Đông Năm 2021</Season>
+        <Duration>23 phút/ep</Duration>
+        <Views>570435 </Views>
+        <Description>
+            The Promised Neverland 2nd Season vietsub là bộ anime chuyển thể từ manga sáng tác bởi Shirai Kaiu và minh họa bởi Demizu Posuka. Bối cảnh của The Promised Neverland được đặt vào năm 2045, Emma là cô bé mồ côi 11 tuổi sống trong một ngôi nhà cùng với 37 người em họ hàng, cô kết bạn những người cùng tuổi Norman và Ray. Cuộc sống như chưa bao giờ tốt đẹp hơn; đồ ăn ngon, những chiếc giường êm ái, luôn một bộ quần áo sạch đến trắng xóa với tình thương từ người “Mẹ” nuôi Isabella, những đứa trẻ mồ côi có thể làm gì tự mình muốn, nhưng luôn có một sự cấm kị dành cho chúng rằng không được đi qua cánh cổng, hay thậm chí một khu rừng dẫn ra thế giới bên ngoài. Đêm nọ, Conny, một trong những đứa trẻ mồ côi, được Isabelle đưa đi để người khác nhận nuôi, Emma và Norman liền đem theo con thỏ bông để quên và đi theo Conny. Kinh hoàng khi thấy Conny chết trong một chiếc xe, họ nhận ra mình là những món hàng được nuôi để làm thức ăn cho bọn quái vật ma quỷ. Tệ hơn nữa khi biết Isabella, mẹ nuôi của họ chính là người ra tay giúp bọn quái vật đó, đã để mắt trông chừng và nghi ngờ. Quyết tâm rời khỏi ngôi nhà và bảo toàn mạng sống, Norman, Emma cùng Ray và những đứa trẻ khác đã tìm cách để leo lên một bức tường thông qua thế giới bên ngoài.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/DXNXOsZqc28</Trailer>
+        <Rating>8.1</Rating>
+        <Votes>2001</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_12</ID_Movie>
+        <Name_1>YAKUSOKU NO NEVERLAND </Name_1>
+        <Name_2>Miền Đất Hứa (2019)</Name_2>
+        <Image>Movie12.jpg</Image>
+        <Status>12/12</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Kinh dị, Shounen</Genre>
+        <Year>2021</Year>
+        <Season>Mùa Đông Năm 2019</Season>
+        <Duration>23 phút/ep</Duration>
+        <Views>1458348</Views>
+        <Description>
+            Tại Grace Field House, cuộc sống không thể tốt hơn cho trẻ mồ côi! Mặc dù họ không có cha mẹ, cùng với những đứa trẻ khác và một Mama tốt bụng chăm sóc chúng, chúng tạo thành một gia đình lớn, hạnh phúc. Không có đứa trẻ nào bị bỏ qua, đặc biệt là khi chúng được nhận nuôi ở tuổi 12. Cuộc sống hàng ngày của chúng liên quan đến các bài kiểm tra nghiêm ngặt, nhưng sau đó, chúng được phép chơi bên ngoài.
+
+            Chỉ có một quy tắc họ phải tuân theo: không rời khỏi trại trẻ mồ côi. Nhưng một ngày nọ, hai đứa trẻ mồ côi hàng đầu, Emma và Norman, đi qua cổng và khai quật hiện thực kinh hoàng đằng sau toàn bộ sự tồn tại của chúng: chúng đều là gia súc, và trại trẻ mồ côi của chúng là một trang trại để nuôi dưỡng thức ăn cho một chủng tộc quỷ bí ẩn. Chỉ còn vài tháng nữa để thực hiện kế hoạch thoát hiểm, bọn trẻ bằng cách nào đó phải thay đổi số phận định trước của mình.
+ 
+            [Viết bởi MAL Rewrite]
+        </Description>
+        <Trailer>https://www.youtube.com/embed/ApLudqucq-s</Trailer>
+        <Rating>8.0</Rating>
+        <Votes>10093</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_13</ID_Movie>
+        <Name_1>ZEKKYOU GAKKYUU SPECIAL</Name_1>
+        <Name_2>Lớp học rùng rợn (2012)</Name_2>
+        <Image>Movie13.jpg</Image>
+        <Status>13/13</Status>
+        <Type_Anime>Special</Type_Anime>
+        <Genre>Hành động</Genre>
+        <Year>2012</Year>
+        <Season>Mùa Thu Năm 2012</Season>
+        <Duration>23 phút/ep</Duration>
+        <Views>46670</Views>
+        <Description>
+            Zekkyou Gakkyuu là những mẩu chuyện ngắn kinh dị, ma quái xoay quanh cuộc sống học đường. Từ một đứa trẻ biếng ăn bị biến thành búp bê cho đến 2 cô bạn thân đã phản bội nhau để tranh giành một cái dù có thể cứu họ thoát khỏi con ma. Đa số đều có kết thúc không tốt đẹp dành cho các nhân vật chính có những hành động sai trái. Nhưng một số chuyện lại có kết thúc buồn trong khi nhân vật chẳng làm gì sai cả. Người viết cảm thấy không hài lòng với chap 20, câu chuyện hòn đá biến đứa trẻ thành đá để có bạn chơi cùng. Đứa trẻ đó chẳng làm gì sai mà vẫn phải chịu kết thúc như vậy.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/qrQQP7V7C8o</Trailer>
+        <Rating>8.6</Rating>
+        <Votes>34000</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_14</ID_Movie>
+        <Name_1>MINI DRAGON</Name_1>
+        <Name_2>Minidora (2021)</Name_2>
+        <Image>Movie14.jpg</Image>
+        <Status>12/12</Status>
+        <Type_Anime>ONA</Type_Anime>
+        <Genre>Hài hước, Fantasy</Genre>
+        <Year>2021</Year>
+        <Season>Mùa Xuân Năm 2021</Season>
+        <Duration>2 phút/ep</Duration>
+        <Views>145140</Views>
+        <Description>
+            Loạt mini-anime kỷ niệm được phát hành trên Kênh YouTube của Kyoani trước Kobayashi-san Chi no Maid Dragon S.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/9MPlmdFHNCk</Trailer>
+        <Rating>7.3</Rating>
+        <Votes>4667</Votes>
+    </Movie>
+
+    <Movie>
+        <ID_Movie>PK_Movie_15</ID_Movie>
+        <Name_1>FAIRY TAIL</Name_1>
+        <Name_2>Hội Đuôi Tiên</Name_2>
+        <Image>Movie15.jpg</Image>
+        <Status>277/277</Status>
+        <Type_Anime>TV Series</Type_Anime>
+        <Genre>Hài hước, Fantasy, Phiêu lưu</Genre>
+        <Year>2009</Year>
+        <Season>Mùa Xuân Năm 2021</Season>
+        <Duration>23 phút/ep</Duration>
+        <Views>6225224 </Views>
+        <Description>
+            Câu chuyện về một cô thiếu nữ tên Lucy Heartfilia, khao khát của cô là gia nhập Hội Pháp sư nổi tiếng Fairy Tail. Trên đường phiêu lưu, Lucy đã vô tình gặp gỡ Natsu Salamander Dragneel, một thành viên của Fairy Tail, người sở hữu pháp thuật cổ đại Sát Long. Thế rồi Lucy được Natsu giới thiệu vào Hội Pháp sư Fairy Tail và cùng anh chàng này tham gia vô số nhiệm vụ khó khăn nhưng cũng không kém phần thú vị.
+        </Description>
+        <Trailer>https://www.youtube.com/embed/AtlsjFlcRZ0</Trailer>
+        <Rating>7.1</Rating>
+        <Votes>4009</Votes>
+    </Movie> 
+</Movies>
